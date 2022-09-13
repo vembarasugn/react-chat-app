@@ -1,33 +1,18 @@
-<div style="width:100%">
-    <div style="width:50%;">
-        <div align="center">
-        <img align="center" width="180" height="180" alt="CometChat" src="./Screenshots/logo.png">    
-        </div>    
-    </div>    
-</div>
 
-<br/><br/>
 
-# CometChat Kitchen Sink Sample App (React)
+# CometChat Sample App (React)
 
-<p align="left">
-    <a href="https://github.com/cometchat-pro/cometchat-pro-react-sample-app/releases/" alt="Releases">
-        <img src="https://img.shields.io/github/v/release/cometchat-pro/cometchat-pro-react-sample-app" />
-    </a>
-    <a href="https://img.shields.io/github/languages/top/cometchat-pro/cometchat-pro-react-sample-app">
-        <img src="https://img.shields.io/github/languages/top/cometchat-pro/cometchat-pro-react-sample-app" />
-    </a>
-    <a href="https://github.com/cometchat-pro/cometchat-pro-react-sample-app/stargazers">
-        <img src="https://img.shields.io/github/stars/cometchat-pro/cometchat-pro-react-sample-app?style=social" />
-    </a>
-    <a href="https://twitter.com/CometChat">
-        <img src="https://img.shields.io/twitter/follow/CometChat?label=CometChat&style=social" />
-    </a>
-</p>
+To check this app with the following users for login purpose.
+UIDs:
+1.mavrick17
+2.meridith16
+3.grey14
+4.sam12
+5.vembarasann2
 
-![alt text](./Screenshots/main.png "Main")
 
-CometChat Kitchen Sink Sample App (built using **CometChat UI Kit**) is a fully functional real-time messaging app capable of private (one-on-one), group messaging, voice & video calling.
+
+CometChat  Sample App (built using **CometChat UI Kit**) is a fully functional real-time messaging app capable of private (one-on-one), group messaging, voice & video calling.
 
 ## Features
 - Login
